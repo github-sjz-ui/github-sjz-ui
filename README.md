@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Physics-Deepseek](https://github.com/github-sjz-ui/Physics-Deepseek)
 
-- 🌱 I’m currently learning **Physics,MATLAB,Quantum Informatics**
+- 🌱 I’m currently learning **Physics,MATLAB,High-energy physics**
 
 - 📫 How to reach me **jizhongshen7@gmail.com**
 

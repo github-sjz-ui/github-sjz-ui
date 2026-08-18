@@ -50,12 +50,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=github-sjz-ui&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=github-sjz-ui&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=github-sjz-ui&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Connect With Me

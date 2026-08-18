@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=github-sjz-ui&no-frame=true&margin-w=6&row=1" alt="GitHub trophies" />
+    <img src="https://github-trophies.devomb.com/?username=github-sjz-ui&no-frame=true&margin-w=6&row=1" alt="GitHub trophies" />
   </a>
 </p>
 
@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=github-sjz-ui&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-sjz-ui&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=github-sjz-ui&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=github-sjz-ui&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">

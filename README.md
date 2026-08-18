@@ -1,25 +1,67 @@
-<h1 align="center">Hi 👋, I'm Shen Jizhong</h1>
-<h3 align="center">A student of the Department of Physics of HZNU</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=github-sjz-ui&label=Profile%20views&color=0e75b6&style=flat" alt="github-sjz-ui" /> </p>
+# Hi there 👋 I'm **Shen Jizhong** (沈纪中)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github-sjz-ui" alt="github-sjz-ui" /></a> </p>
+### Physics Undergraduate @ Hangzhou Normal University (HZNU)
 
-- 🔭 I’m currently working on [Physics-Deepseek](https://github.com/github-sjz-ui/Physics-Deepseek)
+*Computational Physics · High-Energy Physics · Scientific Computing · AI-assisted Research*
 
-- 🌱 I’m currently learning **Physics,MATLAB,High-energy physics**
+<img src="https://komarev.com/ghpvc/?username=github-sjz-ui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 
-- 📫 How to reach me **jizhongshen7@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=github-sjz-ui&no-frame=true&margin-w=6&row=1" alt="GitHub trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-sjz-ui&show_icons=true&locale=en&layout=compact" alt="github-sjz-ui" /></p>
+## 🙋‍♂️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=github-sjz-ui&show_icons=true&locale=en" alt="github-sjz-ui" /></p>
+- 🎓 Undergraduate student in the **Department of Physics** at **Hangzhou Normal University (HZNU)**, Zhejiang, China.
+- 🔭 **Currently working on:**
+  - **[Physics-Deepseek](https://github.com/github-sjz-ui/Physics-Deepseek)** — AI-assisted physics learning & research.
+  - **[iypt-2026-elastic-wave-dynamics](https://github.com/github-sjz-ui/iypt-2026-elastic-wave-dynamics)** — IYPT 2026 Problem 5: torsional standing waves, COMSOL hyperelastic FEM & MATLAB modelling.
+- 🌱 **Currently learning:** Physics · High-energy Physics · MATLAB · scientific computing with Python & C/C++.
+- 💡 **Interests:** numerical simulation (FEM / COMSOL), data-driven physics, and building small automation tools for study & research.
+- 📫 **Reach me at:** jizhongshen7@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github-sjz-ui&" alt="github-sjz-ui" /></p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,matlab,cpp,c,latex,git,html&theme=light" alt="Tech stack" />
+  </a>
+</p>
+
+## 📌 Selected Projects
+
+| Project | Description |
+| :--- | :--- |
+| [Physics-Deepseek](https://github.com/github-sjz-ui/Physics-Deepseek) | Physics learning & research, assisted by AI (Mathematica / Wolfram Language). |
+| [iypt-2026-elastic-wave-dynamics](https://github.com/github-sjz-ui/iypt-2026-elastic-wave-dynamics) | IYPT 2026 Problem 5 — torsional standing waves, COMSOL hyperelastic FEM & MATLAB approximation. |
+| [2026_MCM_Problem_C](https://github.com/github-sjz-ui/2026_MCM_Problem_C) | 2026 MCM/ICM Problem C modelling & solution (Python). |
+| [review-doc-generator](https://github.com/github-sjz-ui/review-doc-generator) | Generate structured Chinese exam-review Word documents (.docx). |
+| [welearn-text-extractor](https://github.com/github-sjz-ui/welearn-text-extractor) | Extract WE Learn *Text A* passages into Word documents. |
+| [neoschool-courseware-downloader](https://github.com/github-sjz-ui/neoschool-courseware-downloader) | Batch-download Neoschool courseware PDFs (Shell). |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=github-sjz-ui&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=github-sjz-ui&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=github-sjz-ui&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:jizhongshen7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/github-sjz-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://newsite-d8syye.manus.space/"><img src="https://img.shields.io/badge/Blog-Portfolio-FF7139?style=for-the-badge" alt="Blog" /></a>
+</p>
